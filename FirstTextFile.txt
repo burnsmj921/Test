@@ -2,3 +2,4 @@ Hello World
 New Line of Text
 New Branch Change
 Merge Test B
+Merge Test A
